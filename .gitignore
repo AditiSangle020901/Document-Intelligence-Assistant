@@ -1,0 +1,13 @@
+# Local Database
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Temporary files
+*.tmp
